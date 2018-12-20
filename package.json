@@ -1,8 +1,8 @@
 {
-  "name": "insight-ui-zcash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the zcash network and build your own services with it.",
+  "name": "insight-ui-litecoinz",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the litecoinz network and build your own services with it.",
   "version": "0.4.0",
-  "repository": "git://github.com/zcash-hackworks/insight-ui-zcash.git",
+  "repository": "git://github.com/LitecoinZ/insight-ui-litecoinz.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -34,19 +34,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/zcash-hackworks/insight-ui-zcash/issues"
+    "url": "https://github.com/LitecoinZ/insight-ui-litecoinz/issues"
   },
-  "homepage": "https://github.com/zcash-hackworks/insight-ui-zcash",
+  "homepage": "https://github.com/LitecoinZ/insight-ui-litecoinz",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "zcash",
+    "litecoinz",
     "bitcore",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-zcash",
+  "bitcoreNode": "bitcore-node-litecoinz",
   "dependencies": {
   },
   "devDependencies": {
